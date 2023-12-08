@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-app/static/css/main.57202879.css",
+    "main.js": "/react-app/static/js/main.a8a1353c.js",
+    "static/media/NanumGothic.woff": "/react-app/static/media/NanumGothic.f727c12e92591b9b6b11.woff",
+    "static/media/UbuntuCondensed-Regular.woff": "/react-app/static/media/UbuntuCondensed-Regular.0e74966b4929e938ab16.woff",
+    "index.html": "/react-app/index.html",
+    "main.57202879.css.map": "/react-app/static/css/main.57202879.css.map",
+    "main.a8a1353c.js.map": "/react-app/static/js/main.a8a1353c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57202879.css",
+    "static/js/main.a8a1353c.js"
+  ]
+}
