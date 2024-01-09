@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/react-app/first/static/css/main.a4377d10.css",
-    "main.js": "/react-app/first/static/js/main.54234603.js",
+    "main.js": "/react-app/first/static/js/main.2b4c12bf.js",
     "static/css/552.4ee49e3c.chunk.css": "/react-app/first/static/css/552.4ee49e3c.chunk.css",
     "static/js/552.afb2be0d.chunk.js": "/react-app/first/static/js/552.afb2be0d.chunk.js",
-    "static/css/333.66470dc8.chunk.css": "/react-app/first/static/css/333.66470dc8.chunk.css",
+    "static/css/333.e656f382.chunk.css": "/react-app/first/static/css/333.e656f382.chunk.css",
     "static/js/333.3e9de068.chunk.js": "/react-app/first/static/js/333.3e9de068.chunk.js",
     "static/media/main2.jpg": "/react-app/first/static/media/main2.fae694ce2f3508e0fbec.jpg",
     "static/media/shop2.jpg": "/react-app/first/static/media/shop2.050c665460e8ca35926d.jpg",
@@ -25,14 +25,14 @@
     "static/media/tlogo2.png": "/react-app/first/static/media/tlogo2.19518cbad2feeb1022b7.png",
     "index.html": "/react-app/first/index.html",
     "main.a4377d10.css.map": "/react-app/first/static/css/main.a4377d10.css.map",
-    "main.54234603.js.map": "/react-app/first/static/js/main.54234603.js.map",
+    "main.2b4c12bf.js.map": "/react-app/first/static/js/main.2b4c12bf.js.map",
     "552.4ee49e3c.chunk.css.map": "/react-app/first/static/css/552.4ee49e3c.chunk.css.map",
     "552.afb2be0d.chunk.js.map": "/react-app/first/static/js/552.afb2be0d.chunk.js.map",
-    "333.66470dc8.chunk.css.map": "/react-app/first/static/css/333.66470dc8.chunk.css.map",
+    "333.e656f382.chunk.css.map": "/react-app/first/static/css/333.e656f382.chunk.css.map",
     "333.3e9de068.chunk.js.map": "/react-app/first/static/js/333.3e9de068.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a4377d10.css",
-    "static/js/main.54234603.js"
+    "static/js/main.2b4c12bf.js"
   ]
 }
